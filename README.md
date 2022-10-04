@@ -6,4 +6,4 @@ Esercitazione della squadra n. 6
 
 Ordinare una pizza.
 
-Creato un diagramma di flusso su figma
+Creato il diagramma di flusso del progetto con Figma
